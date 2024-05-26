@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dingcheng Ji/Personal Homepage"
+title                    : "Dingcheng Ji's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Dingcheng Ji"
 description              : &description "personal description"
